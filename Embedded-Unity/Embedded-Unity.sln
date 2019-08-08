@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Embedded-Unity", "Embedded-Unity.csproj", "{349BE3A2-C6FC-4657-B940-D80B377A2D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349BE3A2-C6FC-4657-B940-D80B377A2D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349BE3A2-C6FC-4657-B940-D80B377A2D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349BE3A2-C6FC-4657-B940-D80B377A2D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349BE3A2-C6FC-4657-B940-D80B377A2D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50022F83-2126-41AC-A4FA-11E79EA4CF19}
+	EndGlobalSection
+EndGlobal
